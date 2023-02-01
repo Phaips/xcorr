@@ -1,6 +1,9 @@
  # Cross-correlation based image alignment
  
- For correlative microscopy. Filtered images UBF1-labeled U20S cells. 65 μm scalebar\
+ For correlative microscopy. This repo is a playground lol\
+ \
+ Example:\
+ Filtered images UBF1-labeled U20S cells. 65 μm scalebar\
  **A)** SEM image **B)** Fluorescene image\
  **C)** Direct overlay **D)** Overlay with shift calculated from cross-correlation
  
