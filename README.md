@@ -1,7 +1,15 @@
-# Cryo-correlative image alignment
+ # Cross-correlation based image alignment
+ 
+ For correlative microscopy 
+ 
+<img src="https://user-images.githubusercontent.com/103127272/215934511-0fe74709-caec-40e2-a267-7320921c60db.png" width="500"/>
 
-![Alignment]([https://github.com/Phaips/xcorr/issues/1#issue-1565337172](https://user-images.githubusercontent.com/103127272/215933944-bfc7b57d-b022-453d-bc70-86b4ccca21c2.png))
 
-## Description
-
-An in-depth paragraph about your project and overview of use.
+Including various other methods and approaches:
+* Bandpass-masking
+* Adjusting pixelsize
+* Radial averages
+* Spatial filtering
+* Scattering/wavelet transform
+* Binary masking
+* Thresholding and segmentation
