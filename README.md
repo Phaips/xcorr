@@ -2,7 +2,7 @@
  
  For correlative microscopy. Filtered images UBF1-labeled U20S cells. 65 μm scalebar\
  **A)** SEM image **B)** Fluorescene image\
- **C)** Direct overlay (wrong), **D)** Overlay with shift calculated from cross-correlatiov
+ **C)** Direct overlay **D)** Overlay with shift calculated from cross-correlation
  
 <img src="https://user-images.githubusercontent.com/103127272/215934511-0fe74709-caec-40e2-a267-7320921c60db.png" width="500"/>
 
