@@ -12,7 +12,7 @@
 Including various other methods and approaches:
 * Bandpass-masking and spatial filtering
 * Adjusting pixelsize
-* Radial averages
+* Fourier spectrum radial averages
 * Scattering/wavelet transform
 * Binary masking
 * Thresholding and segmentation
