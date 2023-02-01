@@ -7,7 +7,7 @@
  **A)** SEM image **B)** Fluorescene image\
  **C)** Direct overlay **D)** Overlay with shift calculated from cross-correlation
  
-<img src="https://user-images.githubusercontent.com/103127272/215934511-0fe74709-caec-40e2-a267-7320921c60db.png" width="500"/>
+<img src="https://user-images.githubusercontent.com/103127272/215934511-0fe74709-caec-40e2-a267-7320921c60db.png" width="600"/>
 
 Including various other methods and approaches:
 * Bandpass-masking
