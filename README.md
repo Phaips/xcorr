@@ -1,7 +1,7 @@
-# Cross-correlation approaches for cryo-correlative image alignment
+# Cryo-correlative image alignment
 
 <div align="center">
-![xcorr3](https://user-images.githubusercontent.com/103127272/215932299-0f471639-91fc-4613-a069-dc0be90f9d51.png)
+![test](C:\Users\phipo\OneDrive - Universität Basel\Dokumente\UniBas\Master\Subcellular proteomics\report\imges\xcorr3.png?raw=true "Title")
 </div>
 
 ## Description
