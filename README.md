@@ -1,8 +1,6 @@
 # Cryo-correlative image alignment
 
-<div align="center">
- ![xcorr3](https://user-images.githubusercontent.com/103127272/215933347-9b3d8b81-fe55-45d7-b944-2233e2095253.png)
-</div>
+![Alignment]([https://github.com/Phaips/xcorr/issues/1#issue-1565337172](https://user-images.githubusercontent.com/103127272/215933944-bfc7b57d-b022-453d-bc70-86b4ccca21c2.png))
 
 ## Description
 
