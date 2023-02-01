@@ -1,7 +1,7 @@
 # Cryo-correlative image alignment
 
 <div align="center">
-![test](C:\Users\phipo\OneDrive - Universität Basel\Dokumente\UniBas\Master\Subcellular proteomics\report\imges\xcorr3.png?raw=true "Title")
+ .png
 </div>
 
 ## Description
