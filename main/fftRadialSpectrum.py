@@ -1,3 +1,4 @@
+# A test for our 824 by 824 images
 x = np.linspace(-412, 412, 824)
 y = np.linspace(-412, 412, 824)
 distx, disty = np.meshgrid(x, y)
