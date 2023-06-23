@@ -1,6 +1,6 @@
  # Cross-correlation based image alignment
  
- For correlative microscopy. This repo is a playground lol\
+ For cryo-correlative microscopy.\
  \
  Example:\
  UBF1-labeled U20S cells. 65 μm scalebar\
